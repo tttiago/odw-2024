@@ -1,6 +1,6 @@
 ## Quick start
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ttiago/odw-2024/blob/main/)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tttiago/odw-2024/blob/main/)
 
 
 ### Challenge Questions
